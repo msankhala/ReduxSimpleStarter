@@ -29,7 +29,7 @@
   },
   "git": {
     "scripts": {
-      "pre-push": "surge --project ./ --domain example-githooks.surge.sh"
+      "pre-push": "surge --project ./ --domain reduxstarter.surge.sh"
     }
   },
   "dependencies": {
